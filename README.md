@@ -9,6 +9,7 @@
 
 - 🔭 I’m currently working on various projects 
 - 🌱 I’m currently learning DSA and Full stack development 
+- 📫 How to reach me **sharonimmanuel01@gmail.com**
 - 💬 Ask me about anything, happy to help 
 
 <h3 align="left">Connect with me:</h3>
