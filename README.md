@@ -1,12 +1,13 @@
 
 
-<!--
+
 <h1 align="center">Hi 👋, I'm Sharon</h1>
 <h3>
 <b> I am a Computer Science and Engineering Student at Vellore Institute of Technology </b></h3>
 
 - 🔭 I’m currently working on various projects 
 - 🌱 I’m currently learning DSA and Full stack development 
+<!--
 - 📫 How to reach me **sharonimmanuel01@gmail.com**
 - 💬 Ask me about anything, happy to help 
 
